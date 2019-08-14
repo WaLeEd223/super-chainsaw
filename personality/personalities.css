@@ -1,0 +1,89 @@
+figcaption {
+    font-family:cursive;
+    color:Red;
+    font-size:20px;
+    font-weight:normal;
+}
+img{
+    width:300px;
+    height:300px;
+    padding:1%;
+}
+.personality {
+  float: left;
+  width:300px ;
+  height:330px;
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent:0;
+  border: thick black solid;
+  margin: 0.5em;
+  padding: 0.5em;
+}
+a{
+    text-decoration:none;
+    color:black;
+    }
+    a:hover
+    {
+        color:#F2D16B;
+    }
+.txt{
+    background-color:Red;
+    color:yellow;
+    font-size:50px;
+    border: 5px white dotted;
+    margin-top:5%;
+    position:sticky;
+}
+a{
+    text-decoration:none;
+    color:black;
+    }
+    a:hover
+    {
+        color:#F2D16B;
+    }
+
+.title-bar {
+    width:100%;
+    text-align:center;
+    background-color:#FFFFFF;
+    color:black;
+    font-family:Arial;
+    font-size:110%;
+    font-weight:bold;
+    line-height:1.6em;
+    border:5px black solid;
+    text-transform:uppercase;
+    word-spacing:1em;
+    padding: 0%;
+    position:fixed;
+}
+
+.title-bar img{
+    padding:0px;
+    width:2%;
+    height:2%;
+}
+
+html, body{
+ width: 100%;
+ height: 100%;
+ padding: 0;
+ margin: 0%;
+}
+
+.pimg figcaption{
+
+}
+pre {
+        font-size:20px;
+        float:left;
+        border: 10px red dotted;
+    padding: 5%;
+    }
+.nav a:hover{
+    color:blue;
+    }
